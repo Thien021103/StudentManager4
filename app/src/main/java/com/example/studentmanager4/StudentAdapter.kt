@@ -8,8 +8,6 @@ import android.widget.ArrayAdapter
 import android.widget.BaseAdapter
 import android.widget.ImageView
 import android.widget.TextView
-import vn.edu.hust.studentman.R
-import vn.edu.hust.studentman.StudentModel
 
 class StudentAdapter(
     private val context: Context,
